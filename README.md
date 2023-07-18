@@ -12,3 +12,32 @@ Integer to Double, String to Integer, String to Double
 
 output:
 ![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/424e3251-3cda-4b7f-b634-bf842d0e1ee3)
+
+practical-1.3
+Scan student’s information and display all the data.
+
+output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/13101cf2-5541-48f2-81c9-69db13541392)
+
+practical-1.4
+Find the number is odd or even by using Control Flow inside println() method.
+
+output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/2319ae81-ff49-465b-9971-fa291d2a7948)
+
+practical-1.5
+Display month name using When
+
+output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/26d6ff4b-07f7-4ae8-a7e1-9437f25b64df)
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/c915f807-a148-4853-ab57-7e9ce52a1fe0)
+
+practical-1.6
+By using a user defined function perform all arithmetic operations
+
+output:
+
+practical-1.7
+Find the factorial of number by recursion. Explain "tailrec" keyword
+
+output:
