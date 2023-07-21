@@ -36,8 +36,20 @@ practical-1.6
 By using a user defined function perform all arithmetic operations
 
 output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/105d9591-0e05-45c5-b0d4-b5f8a69ac763)
 
 practical-1.7
 Find the factorial of number by recursion. Explain "tailrec" keyword
+
+output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/343d6de3-6157-4544-9014-192a27bd4037)
+
+practical-1.8
+Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
+output:
+
+practical-1.9
+Find the max number from ArrayList.
 
 output:
