@@ -1,34 +1,23 @@
-open class person(firstname:String,lastname:String){
-    val firstname=""
-    val lastname=""
-    var phoneno:String=""
+class Car(type:String, model:String, owner:String, miles:Int, price:Int, cprice:Int){
+    var ty:String = type
+    var mo =model
+    var ow = owner
+    var m:Int = miles
+    var p:Int = price
+    var cp:Int = cprice
 
-    constructor(firstname: String,lastname: String,phoneno:String):this(firstname,lastname)
-    var phone:String=phoneno
-}
-
-class student(fname:String,lname: String): person(firstname,lastname) {
-    var name:String= fname+" "+lname
-    var enno:String="21012011103"
-
-    constructor(name: String,enrollment:String):this(fname,lname){
-        enno=enrollment
-        println("secondary constuctor called")
+    fun getCarPrice(){
+        println("Car Information: $ty , $mo\nCar Owner: $ow\nMiles Driven: $m\nOriginal Car Price: $p, Current Car Price: $cp ")
     }
-
-
-//    override fun toString(): String {
-//        return "$name , $enno"
-//    }
-
 }
-fun main(){
-    val obj=student("rohan","21012011103")
-    println(obj)
-    println(obj.)
-    println(obj.name)
-    println(obj.lname)
-
-//    println(obj.name)
-//    println(obj.enno)
+fun main() {
+    var cars = arrayOf(Car("BMW","2018","Aman",105,100000, 98950),
+            Car("BMW","2019","Karan",20,400000, 399800),
+            Car("Toyota","2017","KJS",100,1080000, 1079000),
+            Car("Maruti", "2020", "NPP", 200, 4000000, 3998000))
+    println("Creating Car Class Object car1 in next line")
+    println("Object of class is created and Init is called.\n-----")
+    for (i in cars){
+        i.getCarPrice()
+    }
 }
