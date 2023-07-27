@@ -48,9 +48,26 @@ practical-1.8
 Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
 output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/a880fe4d-5e39-4d13-921b-e4dd4d6465c5)
+
 
 practical-1.9
 Find the max number from ArrayList.
 
 output:
 ![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/f65a0a8d-b432-4d17-a57c-e7f5077c0c58)
+
+practical-1.10
+Create a class Car and set various members like type,model,price,owner,milesdrive. Add the function getOriginalCarPrice(),getCurrentPrice,displayCarInfo() in it. Create an object of Car class and access property of it. 
+
+output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/77297485-f81a-4673-8b7f-ad12a3bbeb01)
+
+
+practical-1.11
+Perform Matrix addition, subtraction & multiplication using Class Matrix and operator overloading. Overload toString() function in Matrix class. 
+
+output:
+![image](https://github.com/Rohan3429/MAD_Practical-1_21012011103/assets/98172369/aebd3eac-0b71-4e36-a886-28f8fa13a2fb)
+
+
