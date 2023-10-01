@@ -1,4 +1,3 @@
-import java.util.Arrays
 fun main(){
     println("create Array-1 using arrayOf() method")
     var a1 = arrayOf(3,9,26,29,36,56)
