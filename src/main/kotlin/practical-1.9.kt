@@ -1,5 +1,3 @@
-import java.util.Arrays
-
 fun main(){
     var arr= arrayOf(51,65,23,48,95,55)
     for (i in 0..arr.size-1){
